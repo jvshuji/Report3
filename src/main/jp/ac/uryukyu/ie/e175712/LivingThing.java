@@ -1,4 +1,4 @@
-package e175712;
+package jp.ac.uryukyu.ie.e175712;
 
 public class LivingThing {
     private String name;
