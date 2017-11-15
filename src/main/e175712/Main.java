@@ -1,4 +1,4 @@
-package jp.ac.uryukyu.ie.e175712;
+package e175712;
 
 /**
  * Created by tnal on 2016/11/13.
